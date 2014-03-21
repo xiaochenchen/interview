@@ -1,4 +1,4 @@
-import java.text.DecimalFormat;
+package interview.xcc.amazon;
 
 /**
  * Amazon Online Coding Question
